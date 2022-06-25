@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MITU16EE01
+- 👋 Hi, I’m Mitesh Prakash
 - 👀 I’m interested in Electrical Automation 
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python and MATLAB
 - 📫 How to reach me miteshprakash9399@gmail.com
 
