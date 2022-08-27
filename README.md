@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Mitesh Prakash
-- 👀 I’m interested in Electrical Automation 
+- 👋 Hi, I’m Mitesh Prakash 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python and MATLAB
 - 📫 How to reach me 22PS06017@iitbbs.ac.in
