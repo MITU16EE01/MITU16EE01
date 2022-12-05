@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mitesh Prakash 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python and MATLAB
+- 🌱 C++ & python 
+- 💞️ I’m looking to collaborate in feild of ML 
 - 📫 How to reach me 22PS06017@iitbbs.ac.in
 
 <!---
