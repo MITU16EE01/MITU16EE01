@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mitesh Prakash 
-- 🌱 C++ & python 
-- 💞️ I’m looking to collaborate in feild of ML 
+- 🌱 C++, MATLAB, Python 
+- 💞️ I’m looking to collaborate in feild of application of machine learnig in the feild of Power Systems 
 - 📫 How to reach me 22PS06017@iitbbs.ac.in
 
 <!---
